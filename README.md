@@ -1,4 +1,4 @@
-# Advanced Rock–Paper–Scissors AI — Technical README
+# Advanced Rock–Paper–Scissors AI
 
 **Repository:** Advanced RPS AI
 **File:** `advanced_rps_ai.py` (neural + rule-based ensemble)
