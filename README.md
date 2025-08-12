@@ -208,7 +208,7 @@ Lower average entropy indicates more confident/exploitable predictions.
 
 ## Final notes about your uploaded `*.pt` file
 
-You mentioned: *"I uploaded a file `.pt` with `1000000000` next to the project on GitHub"* — I assume this is a trained checkpoint produced by the same project (trained for \~1e9 simulation steps). To use it:
+*"I uploaded a file `.pt` with `1000000000` next to the project on GitHub"* To use it:
 
 * Place the file in the project folder and pass its filename to `--model_path`.
 * Verify compatibility with the snippet above. If incompatible, inspect the saved `cfg` (if present) to find the `history_len` and other hyperparameters used at save time.
@@ -230,4 +230,5 @@ If you want, I can now:
 Which do you prefer?
 
 
-By mohammad taha gorji
+Coded By mohammad taha gorji
+README.md By ChatGpt5
